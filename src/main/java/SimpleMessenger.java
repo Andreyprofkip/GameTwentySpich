@@ -2,7 +2,7 @@ public class SimpleMessenger implements Messenger {
 
     @Override
     public void startGame() {
-        System.out.println("Добро пожаловать в игру \"20 спичек\" \n Введите число 1, 2 или 3\n" +
+        System.out.println("Добро пожаловать в игру \"20 спичек\" \nВведите число 1, 2 или 3\n" +
                 "Проиграет тот, у кого останется последняя спичка ");
     }
 
